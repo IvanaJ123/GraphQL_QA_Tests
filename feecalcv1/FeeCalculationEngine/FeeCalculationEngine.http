@@ -1,0 +1,6 @@
+@FeeCalculationEngine_HostAddress = http://localhost:5260
+
+GET {{FeeCalculationEngine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

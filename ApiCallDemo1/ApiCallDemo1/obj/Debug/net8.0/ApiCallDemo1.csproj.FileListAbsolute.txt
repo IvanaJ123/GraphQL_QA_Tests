@@ -1,0 +1,14 @@
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\bin\Debug\net8.0\ApiCallDemo1.exe
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\bin\Debug\net8.0\ApiCallDemo1.deps.json
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\bin\Debug\net8.0\ApiCallDemo1.runtimeconfig.json
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\bin\Debug\net8.0\ApiCallDemo1.dll
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\bin\Debug\net8.0\ApiCallDemo1.pdb
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\obj\Debug\net8.0\ApiCallDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\obj\Debug\net8.0\ApiCallDemo1.AssemblyInfoInputs.cache
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\obj\Debug\net8.0\ApiCallDemo1.AssemblyInfo.cs
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\obj\Debug\net8.0\ApiCallDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\obj\Debug\net8.0\ApiCallDemo1.dll
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\obj\Debug\net8.0\refint\ApiCallDemo1.dll
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\obj\Debug\net8.0\ApiCallDemo1.pdb
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\obj\Debug\net8.0\ApiCallDemo1.genruntimeconfig.cache
+C:\Users\Ivana\source\repos\ApiCallDemo1\ApiCallDemo1\obj\Debug\net8.0\ref\ApiCallDemo1.dll

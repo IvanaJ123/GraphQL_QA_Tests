@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|c:\\users\\ivana\\source\\repos\\webapplication1auth\\webapplication1auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|solutionrelative:webapplication1auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|c:\\users\\ivana\\source\\repos\\webapplication1auth\\webapplication1auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|solutionrelative:webapplication1auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|c:\\users\\ivana\\source\\repos\\webapplication1auth\\webapplication1auth\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|solutionrelative:webapplication1auth\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|c:\\users\\ivana\\source\\repos\\webapplication1auth\\webapplication1auth\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|solutionrelative:webapplication1auth\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|c:\\users\\ivana\\source\\repos\\webapplication1auth\\webapplication1auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F535313-CB96-449D-B30F-9E145D180531}|WebApplication1Auth\\WebApplication1Auth.csproj|solutionrelative:webapplication1auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1Auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\appsettings.json",
+              "RelativeToolTip": "WebApplication1Auth\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T09:56:02.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\Program.cs",
+              "RelativeToolTip": "WebApplication1Auth\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:55:31.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1Auth\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1Auth\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:43:57.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1Auth\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1Auth\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAkwOgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:07:41.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "WebApplication1Auth\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\WebApplication1Auth\\WebApplication1Auth\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "WebApplication1Auth\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:12:14.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

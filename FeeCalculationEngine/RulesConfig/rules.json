@@ -1,0 +1,14 @@
+[
+  {
+    "RuleId": "#1",
+    "Type": "POS"
+  },
+  {
+    "RuleId": "#2",
+    "Type": "e-commerce"
+  },
+  {
+    "RuleId": "#3",
+    "CreditScoreMin": 401
+  }
+]

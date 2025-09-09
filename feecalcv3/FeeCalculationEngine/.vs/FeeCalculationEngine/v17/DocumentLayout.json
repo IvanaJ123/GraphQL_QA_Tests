@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\models\\transactionbatchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:models\\transactionbatchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\controllers\\feecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:controllers\\feecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\services\\feecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:services\\feecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\services\\ifeecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:services\\ifeecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\data\\historystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:data\\historystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\rulesconfig\\rules.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:rulesconfig\\rules.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\models\\transactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:models\\transactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\services\\ruleengine\\rule3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:services\\ruleengine\\rule3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\services\\ruleengine\\rule2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:services\\ruleengine\\rule2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\services\\ruleengine\\rule1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:services\\ruleengine\\rule1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\services\\ruleengine\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:services\\ruleengine\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\models\\transactionresult.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:models\\transactionresult.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|c:\\users\\ivana\\source\\repos\\feecalcv3\\feecalculationengine\\feecalculationengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E26844E4-A631-4E2C-9C20-AC6B2C64B690}|FeeCalculationEngine.csproj|solutionrelative:feecalculationengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionBatchResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Models\\TransactionBatchResponse.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionBatchResponse.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Models\\TransactionBatchResponse.cs",
+              "RelativeToolTip": "Models\\TransactionBatchResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:46:25.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFeeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\IFeeCalculator.cs",
+              "RelativeDocumentMoniker": "Services\\IFeeCalculator.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\IFeeCalculator.cs",
+              "RelativeToolTip": "Services\\IFeeCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:36:09.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Models\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionHistory.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Models\\TransactionHistory.cs",
+              "RelativeToolTip": "Models\\TransactionHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:34:49.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\FeeCalculator.cs",
+              "RelativeDocumentMoniker": "Services\\FeeCalculator.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\FeeCalculator.cs",
+              "RelativeToolTip": "Services\\FeeCalculator.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwGMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:36:26.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Data\\HistoryStorage.cs",
+              "RelativeDocumentMoniker": "Data\\HistoryStorage.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Data\\HistoryStorage.cs",
+              "RelativeToolTip": "Data\\HistoryStorage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:56:04.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T17:56:35.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Controllers\\FeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeeController.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Controllers\\FeeController.cs",
+              "RelativeToolTip": "Controllers\\FeeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:33:59.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Models\\TransactionRequest.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionRequest.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Models\\TransactionRequest.cs",
+              "RelativeToolTip": "Models\\TransactionRequest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:34:20.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rules.json",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\RulesConfig\\rules.json",
+              "RelativeDocumentMoniker": "RulesConfig\\rules.json",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\RulesConfig\\rules.json",
+              "RelativeToolTip": "RulesConfig\\rules.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T18:59:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rule3.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\RuleEngine\\Rule3.cs",
+              "RelativeDocumentMoniker": "Services\\RuleEngine\\Rule3.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\RuleEngine\\Rule3.cs",
+              "RelativeToolTip": "Services\\RuleEngine\\Rule3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:47:02.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rule2.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\RuleEngine\\Rule2.cs",
+              "RelativeDocumentMoniker": "Services\\RuleEngine\\Rule2.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\RuleEngine\\Rule2.cs",
+              "RelativeToolTip": "Services\\RuleEngine\\Rule2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:46:55.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rule1.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\RuleEngine\\Rule1.cs",
+              "RelativeDocumentMoniker": "Services\\RuleEngine\\Rule1.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\RuleEngine\\Rule1.cs",
+              "RelativeToolTip": "Services\\RuleEngine\\Rule1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:46:18.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRule.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\RuleEngine\\IRule.cs",
+              "RelativeDocumentMoniker": "Services\\RuleEngine\\IRule.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Services\\RuleEngine\\IRule.cs",
+              "RelativeToolTip": "Services\\RuleEngine\\IRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:46:01.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionResult.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Models\\TransactionResult.cs.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionResult.cs.cs",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\Models\\TransactionResult.cs.cs",
+              "RelativeToolTip": "Models\\TransactionResult.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:34:36.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FeeCalculationEngine.csproj",
+              "DocumentMoniker": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\FeeCalculationEngine.csproj",
+              "RelativeDocumentMoniker": "FeeCalculationEngine.csproj",
+              "ToolTip": "C:\\Users\\Ivana\\source\\repos\\feecalcv3\\FeeCalculationEngine\\FeeCalculationEngine.csproj",
+              "RelativeToolTip": "FeeCalculationEngine.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T18:28:33.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
